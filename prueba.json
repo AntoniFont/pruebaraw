@@ -1,11 +1,36 @@
 {
   "lastupdate" : 1751804974,
   "items" : [
-    {"coords": [3,13],"layer": 0 , "coins": 30, "stars": 20, "name": "Grass"},
-    {"coords": [17,34],"layer": 1 , "coins": 25, "stars": 0, "name": "Red flower"},
-    {"coords": [17,35],"layer": 1 , "coins": 25, "stars": 10, "name": "Blue flower"},
-    {"coords": [17,36],"layer": 1 , "coins": 25, "stars": 10, "name": "Multicolor flower"},
-    {"coords": [21,38],"layer": 1 , "coins": 25, "stars": 10, "name": "Stick 1"},
-    {"coords": [21,39],"layer": 1 , "coins": 25, "stars": 10, "name": "Stick 2"}
+          {"coords": [25,9], "layer": 0, "coins": 25, "stars": 9, "name": "25,9"},
+          {"coords": [29,9], "layer": 0, "coins": 29, "stars": 9, "name": "29,9"},
+          {"coords": [29,10], "layer": 0, "coins": 29, "stars": 10, "name": "29,10"},
+          {"coords": [17,33], "layer": 1, "coins": 17, "stars": 33, "name": "17,33"},
+          {"coords": [17,34], "layer": 1, "coins": 17, "stars": 34, "name": "17,34"},
+          {"coords": [17,35], "layer": 1, "coins": 17, "stars": 35, "name": "17,35"},
+          {"coords": [17,36], "layer": 1, "coins": 17, "stars": 36, "name": "17,36"},
+          {"coords": [17,37], "layer": 1, "coins": 17, "stars": 37, "name": "17,37"},
+          {"coords": [18,33], "layer": 1, "coins": 18, "stars": 33, "name": "18,33"},
+          {"coords": [19,38], "layer": 1, "coins": 19, "stars": 38, "name": "19,38"},
+          {"coords": [19,40], "layer": 1, "coins": 19, "stars": 40, "name": "19,40"},
+          {"coords": [19,41], "layer": 1, "coins": 19, "stars": 41, "name": "19,41"},
+          {"coords": [20,40], "layer": 1, "coins": 20, "stars": 40, "name": "20,40"},
+          {"coords": [20,41], "layer": 1, "coins": 20, "stars": 41, "name": "20,41"},
+          {"coords": [21,33], "layer": 1, "coins": 21, "stars": 33, "name": "21,33"},
+          {"coords": [21,38], "layer": 1, "coins": 21, "stars": 38, "name": "21,38"},
+          {"coords": [21,39], "layer": 1, "coins": 21, "stars": 39, "name": "21,39"},
+          {"coords": [22,33], "layer": 1, "coins": 22, "stars": 33, "name": "22,33"},
+          {"coords": [23,33], "layer": 1, "coins": 23, "stars": 33, "name": "23,33"},
+          {"coords": [0,54], "layer": 2, "coins": 0, "stars": 54, "name": "0,54"},
+          {"coords": [0,58], "layer": 2, "coins": 0, "stars": 58, "name": "0,58"},
+          {"coords": [0,60], "layer": 2, "coins": 0, "stars": 60, "name": "0,60"},
+          {"coords": [1,54], "layer": 2, "coins": 1, "stars": 54, "name": "1,54"},
+          {"coords": [1,57], "layer": 2, "coins": 1, "stars": 57, "name": "1,57"},
+          {"coords": [1,60], "layer": 2, "coins": 1, "stars": 60, "name": "1,60"},
+          {"coords": [2,53], "layer": 2, "coins": 2, "stars": 53, "name": "2,53"},
+          {"coords": [2,57], "layer": 2, "coins": 2, "stars": 57, "name": "2,57"},
+          {"coords": [2,59], "layer": 2, "coins": 2, "stars": 59, "name": "2,59"},
+          {"coords": [9,55], "layer": 2, "coins": 9, "stars": 55, "name": "9,55"},
+          {"coords": [12,57], "layer": 2, "coins": 12, "stars": 57, "name": "12,57"}
+
   ]
 }
