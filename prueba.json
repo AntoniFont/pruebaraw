@@ -6,12 +6,6 @@
     {"coords": [17,35],"layer": 1 , "coins": 25, "stars": 10, "name": "Blue flower"},
     {"coords": [17,36],"layer": 1 , "coins": 25, "stars": 10, "name": "Multicolor flower"},
     {"coords": [21,38],"layer": 1 , "coins": 25, "stars": 10, "name": "Stick 1"},
-    {"coords": [21,39],"layer": 1 , "coins": 25, "stars": 10, "name": "Stick 2"},
-    {"coords": [3,13],"layer": 0 , "coins": 30, "stars": 20, "name": "Grass"},
-    {"coords": [17,34],"layer": 1 , "coins": 25, "stars": 0, "name": "Red flower"},
-    {"coords": [17,35],"layer": 1 , "coins": 25, "stars": 10, "name": "Blue flower"},
-    {"coords": [17,36],"layer": 1 , "coins": 25, "stars": 10, "name": "Multicolor flower"},
-    {"coords": [21,38],"layer": 1 , "coins": 25, "stars": 10, "name": "Stick 1"},
     {"coords": [21,39],"layer": 1 , "coins": 25, "stars": 10, "name": "Stick 2"}
   ]
 }
