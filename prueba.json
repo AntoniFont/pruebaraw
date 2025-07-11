@@ -5,11 +5,7 @@
     {"coords": [17,34],"layer": 1 , "coins": 25, "stars": 0, "name": "Red flower"},
     {"coords": [17,35],"layer": 1 , "coins": 25, "stars": 10, "name": "Blue flower"},
     {"coords": [17,36],"layer": 1 , "coins": 25, "stars": 10, "name": "Multicolor flower"},
-    {"coords": [17,35],"layer": 1 , "coins": 25, "stars": 10, "name": "Small Plant 1"},
     {"coords": [21,38],"layer": 1 , "coins": 25, "stars": 10, "name": "Stick 1"},
-    {"coords": [21,39],"layer": 1 , "coins": 25, "stars": 10, "name": "Stick 2"},
-    {"coords": [17,33],"layer": 1 , "coins": 25, "stars": 10, "name": "Small Tree"},
-    {"coords": [19,38],"layer": 1 , "coins": 25, "stars": 10, "name": "log"}
-    
+    {"coords": [21,39],"layer": 1 , "coins": 25, "stars": 10, "name": "Stick 2"}
   ]
 }
