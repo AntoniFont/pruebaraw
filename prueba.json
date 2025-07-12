@@ -16,6 +16,7 @@
 {"coords": [25,9], "layer": 0, "coins": 0125, "stars": 9, "name": "25,9"},
 {"coords": [29,9], "layer": 0, "coins": 0129, "stars": 9, "name": "29,9"},
 {"coords": [29,10], "layer": 0, "coins": 0129, "stars": 10, "name": "29,10"},
+{"coords": [16,34], "layer": 1, "coins": 0216, "stars": 34, "name": "16,34"},
 {"coords": [17,33], "layer": 1, "coins": 0217, "stars": 33, "name": "17,33"},
 {"coords": [17,34], "layer": 1, "coins": 0217, "stars": 34, "name": "17,34"},
 {"coords": [17,35], "layer": 1, "coins": 0217, "stars": 35, "name": "17,35"},
@@ -42,6 +43,7 @@
 {"coords": [2,57], "layer": 2, "coins": 0302, "stars": 57, "name": "2,57"},
 {"coords": [2,59], "layer": 2, "coins": 0302, "stars": 59, "name": "2,59"},
 {"coords": [9,55], "layer": 2, "coins": 0309, "stars": 55, "name": "9,55"},
-{"coords": [12,57], "layer": 2, "coins": 0312, "stars": 57, "name": "12,57"}
+{"coords": [12,57], "layer": 2, "coins": 0312, "stars": 57, "name": "12,57"},
+{"coords": [13,13], "layer": 2, "coins": 0313, "stars": 13, "name": "13,13"}
   ]
 }
