@@ -42,7 +42,6 @@
 {"coords": [2,53], "layer": 2, "coins": 0302, "stars": 53, "name": "2,53"},
 {"coords": [2,57], "layer": 2, "coins": 0302, "stars": 57, "name": "2,57"},
 {"coords": [2,59], "layer": 2, "coins": 0302, "stars": 59, "name": "2,59"},
-{"coords": [9,55], "layer": 2, "coins": 0309, "stars": 55, "name": "9,55"},
 {"coords": [12,57], "layer": 2, "coins": 0312, "stars": 57, "name": "12,57"},
 {"coords": [13,13], "layer": 2, "coins": 0313, "stars": 13, "name": "13,13"}
   ]
